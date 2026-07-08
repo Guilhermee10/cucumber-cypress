@@ -13,5 +13,6 @@ module.exports = defineConfig({
       }))
       return config
     },
+    baseUrl: 'https://localhost:3000/',
   },
 })
